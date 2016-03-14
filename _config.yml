@@ -6,16 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Head for Code
+email: nickeblewis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Making sense of the modern web and helping you get the best out of it.
+  We cover a lot of JavaScript, Ruby, HTML and CSS topics.
+  Teaching people both new and well acquainted to Coding through online
+  and one-to-one tutorials using our tutl.io system.
+  This website is proudly built on Jekyll :-)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://headforcode.com" # the base hostname & protocol for your site
+twitter_username: nicklewis
+github_username:  nickeblewis
 
 # Build settings
 markdown: kramdown
